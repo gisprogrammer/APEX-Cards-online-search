@@ -2,9 +2,11 @@
 Oracle APEX Cards fast jquery filter
 ## Preview
 ![](https://github.com/gisprogrammer/APEX-Cards-online-search/blob/master/emp_example.gif)
-### Dynamic Action event
+### Add text field item to cards region
+![](https://github.com/gisprogrammer/APEX-Cards-online-search/blob/master/page_item.png)
+### Add dynamic action event
 ![](https://github.com/gisprogrammer/APEX-Cards-online-search/blob/master/da_event.png)
-### Dynamic Action javascript code
+### Edit dynamic action javascript code
 ![](https://github.com/gisprogrammer/APEX-Cards-online-search/blob/master/da_javascript.png)
 
 ### Key release dynamic action javacript code
