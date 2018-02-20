@@ -1,4 +1,5 @@
-[![APEX JavaScript](https://github.com/gisprogrammer/apex-github-badges/blob/master/badges/apex-javascript-badge.svg)](<LINK>)
+[![APEX JavaScript](https://github.com/gisprogrammer/apex-github-badges/blob/master/badges/apex-javascript-badge.svg)]
+[![APEX JavaScript](https://github.com/gisprogrammer/apex-github-badges/blob/master/badges/apex-education-badge.svg)](<LINK>)(<LINK>)
 # APEX-Cards-online-search
 Oracle APEX Cards jQuery Live Search
 ## Preview
